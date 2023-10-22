@@ -1,2 +1,2 @@
-# DataCamp_Data_Scientist
-DataCamp: Data Scientist with Python
+# DataCamp
+Repository for DataCamp Data Scientist track with Python
