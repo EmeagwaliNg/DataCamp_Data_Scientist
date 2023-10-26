@@ -10,7 +10,7 @@ Repository for DataCamp Data Scientist track with Python
 [Introduction to Statistics in Python](https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Statistics%20in%20Python)  
 [Introduction to Data Visualization with matplotlib]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)  
 [Introduction to Data Visualization with Seaborn](https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Data%20Visualization%20with%20Seaborn)  
-[Python Data Science Toolbox (Part 1)]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Python%20Data%20Science%20Toolbox%20(Part%201))
+[Python Data Science Toolbox (Part 1)]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Python%20Data%20Science%20Toolbox%20(Part%201))  
 [Python Data Science Toolbox (Part 2)]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Python%20Data%20Science%20Toolbox%20(Part%202))  
 [Intermediate Data Visualization with Seaborn](https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Intermediate%20to%20Data%20Visualization%20with%20Seaborn)  
 [Exploratory Data Analysis with Python]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Exploratory%20Data%20Analysis%20with%20%20Python)  
