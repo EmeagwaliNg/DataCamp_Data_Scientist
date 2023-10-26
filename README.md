@@ -9,6 +9,7 @@ Repository for DataCamp Data Scientist track with Python
 [Joining Data with pandas]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Joining%20Data%20with%20Pandas)  
 [Introduction to Statistics in Python](https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Statistics%20in%20Python)  
 [Introduction to Data Visualization with matplotlib]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib) 
+  
 [Introduction to Data Visualization with Seaborn](https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Introduction%20to%20Data%20Visualization%20with%20Seaborn)  
 [Python Data Science Toolbox (Part 1)]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Python%20Data%20Science%20Toolbox%20(Part%201))
 [Python Data Science Toolbox (Part 2)]( https://github.com/EmeagwaliNg/DataCamp_Data_Scientist/tree/main/Python%20Data%20Science%20Toolbox%20(Part%202))  
